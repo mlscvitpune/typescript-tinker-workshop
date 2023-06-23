@@ -1,0 +1,6 @@
+To run the code go in the folders and first install the dependencies by typing the command npm install.
+
+It will install all the required packages.
+
+In the last example3 there is one error of module.
+We have created a custom module but it cant be used as a module because it is not hosted online. But, we can use the calculator module in Typescript which you will easily understand if you attended the session. 
